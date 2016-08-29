@@ -15,7 +15,7 @@ We'll start with the basics:
 * scripts/jqueryAjaxJsonExample.js
 * scripts/vendors/scripts/vendors/jquery-3.0.0.min.js
 
-Source the js files in the html. Be sure to source the JQuery fiel prior to your script.
+Source the js files in the html. Be sure to source the JQuery file prior to your script.
 
 In our js file we'll only be doing a few things to start:
 * retrieve data from JSON (getStudents function)
