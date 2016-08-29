@@ -23,6 +23,8 @@ In our js file we'll only be doing a few things to start:
 
 At the top of the file we'll create a global array for the students data retrieved as well as a jsonURL string in which we'll hold the URL for the JSON file.
 
+Next Steps
+----------
 Once the project is working, a few food for thought extensions you may which to try:
 * remove a students from the array/DOM
 * add the ability to edit students in the array and update the DOM
